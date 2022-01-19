@@ -1,6 +1,6 @@
 # ShopifyDSChallenge
 
-This repository consists of my submission for the Shopify Data Science Challenge.
+This repository consists of my submission for the Shopify Data Science Challenge for Data Science Intern - Summer 2022.
 
 Steps to run the ipynb file:
 
@@ -10,3 +10,5 @@ Steps to run the ipynb file:
 3. Browse the downloaded ipynb file.  
 4. Run all the cells.  
 ```
+
+Hope to see you at the Life Story interview! :D
